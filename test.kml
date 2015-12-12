@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<Folder>
+<Placemark>
+<name>116.379661
+,39.908731</name>
+<Point>
+<coordinates>116.379661
+,39.908731,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>116.386201
+,39.917759</name>
+<Point>
+<coordinates>116.386201
+,39.917759,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>116.373511
+,39.912645</name>
+<Point>
+<coordinates>116.373511
+,39.912645,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
