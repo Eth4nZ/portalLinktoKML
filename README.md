@@ -1,2 +1,2 @@
-# portalLinktoXML
-a simple script create xml to perform portals on iitc
+# portalLinktoKML
+a simple script create .kml to perform portals on iitc
